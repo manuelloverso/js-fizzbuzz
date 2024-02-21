@@ -29,3 +29,7 @@ h1 {
     aspect-ratio: 1;
   }
 }
+
+.bg-red {
+  background-color: red;
+}
