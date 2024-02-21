@@ -14,12 +14,14 @@ h1 {
 
 .row {
   display: flex;
+  justify-content: center;
   flex-wrap: wrap;
   gap: 15px;
   list-style: none;
   padding: 0;
 
   & li {
+    color: black;
     display: flex;
     align-items: center;
     justify-content: center;
